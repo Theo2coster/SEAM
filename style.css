@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(41, 134, 78)
+
+}
+
+#id01 {
+    text-transform: uppercase;
+    color: rgb(41, 134, 78)
+}
+
+body {
+    border: 2px solid;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+    position: relative;
+}
